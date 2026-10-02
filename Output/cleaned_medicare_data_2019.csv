@@ -1,0 +1,32 @@
+prscrbr_npi,prscrbr_last_org_name,prscrbr_first_name,prscrbr_city,prscrbr_state_abrvtn,prscrbr_state_fips,ge65_bene_sprsn_flag,ge65_tot_benes,year
+1786558872,HealthCare Inc,Michael,Los Angeles,NY,4801,N,100,2019
+7856411959,Wellness Group,Emily,New York,PA,7126,Y,22,2019
+3598664248,Physician Associates,Daniel,Houston,TX,3355,N,59,2019
+8900804106,Physician Associates,Robert,Chicago,CA,7868,N,88,2019
+1989479745,Physician Associates,Sophia,Chicago,NY,9302,Y,89,2019
+1812686857,MediCorp,Jane,Los Angeles,AZ,9437,Y,92,2019
+5661462232,Wellness Group,Daniel,Houston,NY,2485,Y,56,2019
+1354525277,MediCorp,Daniel,Philadelphia,PA,8570,N,41,2019
+8872556369,HealthCare Inc,Daniel,New York,PA,6349,N,1,2019
+2044011710,HealthCare Inc,Robert,Philadelphia,NY,6496,N,33,2019
+6504079738,MediCorp,Michael,Philadelphia,IL,7808,N,73,2019
+7326485627,MediCorp,Robert,Los Angeles,CA,5447,N,10,2019
+8010647045,Wellness Group,Jane,Chicago,AZ,1856,Y,13,2019
+3853214108,HealthCare Inc,Michael,Philadelphia,PA,3482,N,40,2019
+1842456466,Physician Associates,John,Houston,TX,6428,Y,84,2019
+9030648342,MediCorp,Michael,New York,NY,7320,N,24,2019
+9207955249,HealthCare Inc,Robert,New York,NY,3877,N,99,2019
+7459374707,Physician Associates,Olivia,Houston,IL,4453,N,10,2019
+6788878623,HealthCare Inc,Emily,Phoenix,NY,1868,N,64,2019
+2251244754,HealthCare Inc,John,Los Angeles,AZ,2585,Y,28,2019
+6623303145,HealthCare Inc,Michael,Houston,IL,4431,N,45,2019
+7194319719,Physician Associates,Sophia,Houston,CA,3352,N,70,2019
+3066146014,MediCorp,Sophia,Houston,IL,9963,Y,87,2019
+6160185633,MediCorp,Michael,Chicago,NY,8002,N,97,2019
+7130245111,Wellness Group,Michael,Houston,PA,8679,N,89,2019
+6088750603,Wellness Group,Emily,New York,IL,4169,Y,65,2019
+3639466585,Wellness Group,John,New York,IL,4802,Y,78,2019
+7385669087,MediCorp,Michael,Philadelphia,CA,3389,N,93,2019
+8422499203,Wellness Group,Sophia,Chicago,NY,8490,N,86,2019
+5135929638,MediCorp,Olivia,Houston,IL,8489,N,46,2019
+1080743386,MediCorp,Sophia,Phoenix,NY,8824,N,17,2019

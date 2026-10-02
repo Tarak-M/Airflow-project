@@ -1,0 +1,37 @@
+prscrbr_npi,prscrbr_last_org_name,prscrbr_first_name,prscrbr_city,prscrbr_state_abrvtn,prscrbr_state_fips,ge65_bene_sprsn_flag,ge65_tot_benes,year
+6441266544,Physician Associates,Jane,Phoenix,NY,5318,Y,83,2018
+8274950539,HealthCare Inc,John,New York,IL,3716,Y,80,2018
+3751657833,Wellness Group,Robert,New York,AZ,3437,Y,63,2018
+1638043435,Physician Associates,Emily,Chicago,CA,9000,Y,92,2018
+6298399412,HealthCare Inc,Daniel,Chicago,PA,5132,N,14,2018
+4679971583,MediCorp,John,Philadelphia,PA,2145,Y,32,2018
+6699465368,HealthCare Inc,Jane,Houston,TX,7988,Y,29,2018
+2826453739,Physician Associates,Jane,Los Angeles,IL,1537,Y,63,2018
+2462583621,HealthCare Inc,Sophia,New York,CA,2907,N,67,2018
+6368962442,Wellness Group,Michael,Houston,TX,2284,Y,51,2018
+9440031741,Physician Associates,Michael,Houston,AZ,3368,N,41,2018
+3315524925,MediCorp,Sophia,Chicago,TX,8300,N,27,2018
+8974936428,MediCorp,Jane,Phoenix,PA,8436,Y,33,2018
+6600068988,Physician Associates,Michael,Chicago,CA,5047,Y,9,2018
+2055837983,HealthCare Inc,Michael,Chicago,PA,7631,N,42,2018
+2033483069,Wellness Group,Sophia,Los Angeles,IL,7382,Y,12,2018
+8207891411,MediCorp,Robert,Philadelphia,IL,9286,Y,48,2018
+2569625785,MediCorp,Jane,Houston,NY,2397,N,14,2018
+8141730991,MediCorp,Michael,Los Angeles,IL,8194,Y,100,2018
+3107326256,Physician Associates,Daniel,Los Angeles,AZ,7819,N,70,2018
+9789866870,Physician Associates,John,Chicago,IL,8176,Y,64,2018
+5475100988,Physician Associates,Daniel,Philadelphia,IL,9362,Y,65,2018
+3133766125,HealthCare Inc,Sophia,Los Angeles,CA,3301,Y,2,2018
+9725186736,Physician Associates,John,Los Angeles,AZ,9954,N,99,2018
+8461211624,Physician Associates,Olivia,Philadelphia,AZ,2868,Y,9,2018
+2346668323,HealthCare Inc,Jane,Los Angeles,IL,3492,Y,16,2018
+8549676823,Physician Associates,Robert,New York,TX,4464,Y,45,2018
+6426474083,HealthCare Inc,Michael,Los Angeles,IL,6358,N,81,2018
+8075360052,Wellness Group,Olivia,Houston,IL,5960,Y,25,2018
+6673460196,Wellness Group,Michael,New York,TX,6541,N,45,2018
+3266397033,MediCorp,John,Chicago,CA,3278,N,94,2018
+1228490182,Physician Associates,Robert,Los Angeles,TX,5809,N,32,2018
+7430910174,MediCorp,Robert,Houston,AZ,9058,Y,57,2018
+1711986076,HealthCare Inc,Olivia,New York,PA,3366,N,100,2018
+8078945385,HealthCare Inc,Olivia,Houston,CA,6045,N,2,2018
+7333473901,Wellness Group,Sophia,New York,AZ,3267,N,47,2018
